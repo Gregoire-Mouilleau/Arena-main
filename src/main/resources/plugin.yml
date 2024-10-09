@@ -1,0 +1,5 @@
+name: arena-api
+version: '${project.version}'
+main: fr.ariloxe.arena.ArenaAPI
+api-version: 1.17
+author: Ariloxe
